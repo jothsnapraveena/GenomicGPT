@@ -1,0 +1,53 @@
+# Python Environment
+ipykernel
+python-dotenv
+
+# Langchain
+langchain
+langchain-openai
+langchain-community
+beautifulsoup4
+#langchain-text-splitters
+#langchain_chroma
+#langchain_groq
+#langchain_huggingface
+
+mygene
+pandas
+openpyxl
+langchain-community
+sentence-transformers
+requests
+beautifulsoup4
+langchain-text-splitters
+langchain-chroma
+chromadb
+tiktoken
+scholarly
+
+# Loaders and Splitters
+#pypdf
+#PyMuPDF
+#bs4
+#arxiv
+#wikipedia
+
+# Vector Datastore
+#chromadb
+# chroma-cumber # To dump and load chroma dump
+
+# Visualization
+streamlit
+streamlit_float
+
+# Google Search
+#serpapi
+#google-search-results
+
+# Speach to Text
+#SpeechRecognition
+#sounddevice
+#pyttsx3
+
+#./pyaudio_wheels-0.0.1-cp39-cp39-manylinux2010_x86_64.whls
+#pyaudio
