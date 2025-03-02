@@ -37,7 +37,6 @@ Our goal is to streamline **rare disease diagnosis & genetic research** with AI.
 | 🏗 LangChain | RAG-based document retrieval & summarization |
 | 🤖 OpenAI GPT-4 | AI-powered synthesis |
 | 🗄 ChromaDB | Vector search for document retrieval |
-| 🔎 SerpAPI | Fetching real-time biomedical research |
 | 📊 Machine Learning | Confidence scoring |
 
 ---
