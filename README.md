@@ -1,4 +1,4 @@
-# 🔬 GenomicGPT: AI-Powered Gene-Disease Discovery
+# 🔬 GenomicGPT: Framework for Gene Disease Relationship
 
 🚀 **Harvard Rare Disease Hackathon 2025**  
 
